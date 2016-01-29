@@ -1,0 +1,8 @@
+Klasa Lamp:
+->lampa mijania
+->lampa drogowa
+->migacz
+->stop
+->mgła
+DeviceManager dla lamp
+subskrypcja pilota do lampy

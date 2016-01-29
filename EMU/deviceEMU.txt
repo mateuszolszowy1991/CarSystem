@@ -1,0 +1,2 @@
+door[4]:mask:trunk
+passingLamp[4]:flasher[6]:stop[3]:positionLamp[2]:fog
